@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[New Project]]></data>
+
+
+
+  <data name="en_pano9_title"><![CDATA[1 панорама]]></data>
+
+
+  <data name="en_pano11_title"><![CDATA[2 панорама]]></data>
+
+
+  <data name="en_pano13_title"><![CDATA[3 панорама]]></data>
+
+
+  <data name="en_pano15_title"><![CDATA[4 панорама]]></data>
+
+
+  <data name="en_pano17_title"><![CDATA[5 панорама]]></data>
+
+
+  <data name="en_pano19_title"><![CDATA[6 панорама]]></data>
+  <data name="en_spotpoint206openurlwebsiteurl"><![CDATA[https://yuzrk.ru/letopis/index.html#p=1]]></data>
+
+
+  <data name="en_pano21_title"><![CDATA[7 панорама]]></data>
+
+
+  <data name="en_pano23_title"><![CDATA[8 панорама]]></data>
+
+
+  <data name="en_pano25_title"><![CDATA[9 панорама]]></data>
+
+
+
+
+
+
+  <data name="en_controlBar_iprevSceneTip"><![CDATA[Previous panorama]]></data>
+  <data name="en_controlBar_inextSceneTip"><![CDATA[Next panorama]]></data>
+  <data name="en_controlBar_izoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="en_controlBar_izoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="en_controlBar_imoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="en_controlBar_imoveRightTip"><![CDATA[Move right]]></data>
+  <data name="en_controlBar_imoveUpTip"><![CDATA[Move up]]></data>
+  <data name="en_controlBar_imoveDownTip"><![CDATA[Move down]]></data>
+  <data name="en_controlBar_iopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_controlBar_icloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_controlBar_iautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_controlBar_iautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_controlBar_idisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="en_controlBar_ihideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="en_controlBar_idisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_ihideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_controlBar_ictrlmodeDragTip"><![CDATA[Change control mode]]></data>
+  <data name="en_controlBar_ictrlmodeMoveTip"><![CDATA[Change control mode]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
